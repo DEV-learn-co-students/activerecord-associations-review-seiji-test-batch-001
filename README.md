@@ -1,0 +1,1 @@
+# activerecord-associations-review-seiji-test-batch-001
